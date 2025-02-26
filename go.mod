@@ -1,4 +1,4 @@
-module dnsprop
+module github.com/hamochi/dnsprop
 
 go 1.24
 
