@@ -3,6 +3,9 @@
 ## Overview
 This cmd tool allows you to check DNS propagation by querying multiple public DNS servers around the world. It supports various DNS record types, such as A, AAAA, CNAME, MX, and TXT.
 
+Screenshot:
+![dnsprop](screenshot.png)
+
 ## Installation
 ### Prerequisites
 Ensure you have Go installed on your system. If you haven't installed Go, download and install it from [Go's official website](https://go.dev/dl/).
