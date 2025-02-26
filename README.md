@@ -20,16 +20,16 @@ Ensure you have Go installed on your system. If you haven't installed Go, downlo
 ### Basic Usage
 Run the tool with a domain name:
 ```sh
-./dnsprop example.com
+dnsprop example.com
 ```
 By default, it will check for `A` records.
 
 ### Specify Record Type
 To query a specific record type, provide it as an argument:
 ```sh
-./dnsprop A example.com
-./dnsprop MX example.com
-./dnsprop TXT example.com
+dnsprop A example.com
+dnsprop MX example.com
+dnsprop TXT example.com
 ```
 
 ### Output Format
