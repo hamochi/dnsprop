@@ -28,6 +28,7 @@ By default, it will check for `A` records.
 To query a specific record type, provide it as an argument:
 ```sh
 dnsprop A example.com
+dnsprop CNAME example.com
 dnsprop MX example.com
 dnsprop TXT example.com
 ```
